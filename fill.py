@@ -21,11 +21,6 @@ while True:
     choice = input("Enter choice(+,-,*,/,^,%,#,$):")
     print("",choice)
     def select_op(choice):
-        
-        
-
-        
-
         if(choice == '+'):
                 x = input("Enter first number:")
                 print("",x)    #get first number from user
